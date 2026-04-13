@@ -1,9 +1,3 @@
-This is a solid project for your portfolio! Since you are studying at the University of Mannheim, having a professional README in English is a great way to showcase your skills to future employers like SAP or other tech firms in the region.
-
-Here is a comprehensive README text tailored to your specific project requirements:
-Academy Awards (Oscar) Data Processor
-Project Overview
-
 This project is a Java-based application developed as part of the Programmierpraktikum 1 course at the University of Mannheim. The application processes historical data from the Academy Awards (1927–2025) and actor biographies to provide an interactive filtering and analysis tool.
 
 The core focus of this project is the efficient use of Java Collections, Streams, and Object-Oriented Programming principles.
